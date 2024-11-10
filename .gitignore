@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/src/styles/tailwind.css
+# /src/styles/tailwind.css
 
 # production
 /build

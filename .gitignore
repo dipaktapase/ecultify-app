@@ -7,9 +7,12 @@
 
 # testing
 /coverage
+/src/styles/tailwind.css
 
 # production
 /build
+/uploads
+.env
 
 # misc
 .DS_Store
